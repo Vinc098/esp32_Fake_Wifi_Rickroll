@@ -1,0 +1,2 @@
+ESP32S3 Dev Module for ESP32-S3 Wroom-1
+Connected on UART-USB Port
