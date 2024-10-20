@@ -8,6 +8,7 @@
 DNSServer dnsServer;
 AsyncWebServer server(80);
 
+// Also possible without the next 4 Lines.
 #define CS_PIN 5    
 #define MOSI_PIN 11 
 #define MISO_PIN 13 
